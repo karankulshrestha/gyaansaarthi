@@ -59,7 +59,7 @@ Start the app in Real device
 </p>
 
 <p align="center">
-<img src="https://github.com/rajkulx/gyaansaarthi/assets/42493387/7f3eea1d-909f-483c-aca3-9ef3ac803586.png" width="300" height="650" />
+<img src="https://github.com/rajkulx/gyaansaarthi/assets/42493387/74e7a0f6-1e11-45a4-9788-3827577bb376.png" width="300" height="650" />
 </p>
 
 
@@ -76,7 +76,7 @@ Start the app in Real device
 </p>
 
 <p align="center">
-<img src="https://github.com/rajkulx/gyaansaarthi/assets/42493387/db6c84a1-0183-479b-aea3-20d0a65bf963.png" width="300" height="650" />
+<img src="https://github.com/rajkulx/gyaansaarthi/assets/42493387/c1aaf41a-9c3a-44f4-b3f9-9001e8606aa7.png" width="300" height="650" />
 </p>
 
 
