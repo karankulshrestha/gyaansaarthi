@@ -81,7 +81,7 @@ Start the app in Real device
 
 
 <p align="center">
-<img src="https://github.com/rajkulx/bulkwork/assets/42493387/c5b779fd-0ad9-4afd-99de-1f8d1c009492.png" width="300" height="650" />
+<img src="https://github.com/rajkulx/gyaansaarthi-api/assets/42493387/61f94b06-1307-4eeb-bc43-45e147776888.png" width="300" height="650" />
 </p>
 
 <p align="center">
