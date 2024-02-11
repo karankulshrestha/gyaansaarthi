@@ -59,7 +59,7 @@ Start the app in Real device
 </p>
 
 <p align="center">
-<img src="https://github.com/rajkulx/gyaansaarthi/assets/42493387/74e7a0f6-1e11-45a4-9788-3827577bb376.png" width="300" height="650" />
+<img src="https://github.com/karankulshrestha/gyaansaarthi/assets/42493387/c771c278-b4a0-4e20-b5ab-27bc3218e77e" width="300" height="650" />
 </p>
 
 
@@ -76,12 +76,12 @@ Start the app in Real device
 </p>
 
 <p align="center">
-<img src="https://github.com/rajkulx/gyaansaarthi/assets/42493387/c1aaf41a-9c3a-44f4-b3f9-9001e8606aa7.png" width="300" height="650" />
+<img src="https://github.com/karankulshrestha/gyaansaarthi/assets/42493387/1c5df0c8-be26-44f9-b7f8-0707cb3d7820" width="300" height="650" />
 </p>
 
 
 <p align="center">
-<img src="https://github.com/karankulshrestha/insiderview/assets/42493387/3e0a0119-1cbe-4537-9dba-d1791fab7249" width="300" height="650" />
+<img src="https://github.com/karankulshrestha/gyaansaarthi/assets/42493387/b7b1ecb6-f05e-46d0-b7b5-1a2c97e09f43" width="300" height="650" />
 </p>
 
 <p align="center">
