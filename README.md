@@ -26,7 +26,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/rajkulx/gyaansaarthi
+  git clone https://github.com/karankulshrestha/gyaansaarthi
 ```
 
 Go to the project directory
@@ -48,7 +48,7 @@ Start the app in Real device
 ```
 
 ## 🔗 Backend API Repo
-[Backend FastAPI Repository](https://github.com/rajkulx/gyaansaarthi-api)
+[Backend FastAPI Repository](https://github.com/karankulshrestha/gyaan-api)
 
 
 ## Screenshots
